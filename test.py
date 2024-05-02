@@ -76,3 +76,4 @@ reverse_sort = sorted(strings, key=length, reverse=True)
 print("Возрастание:", simple_sort)
 print("Убывание:", reverse_sort)
 
+
